@@ -1,7 +1,8 @@
 # MMM-vvt
 VVT Departures for MagicMirror
 
-This includes departures from Busses and Trains within the VVT (Verkehrsverbund Tirol) and IVB (Innsbrucker Verkehrsbetriebe).
+Departures of busses, trams and trains within Tyrol, Austria.
+This includes public transport services of VVT (Verkehrsverbund Tirol) and IVB (Innsbrucker Verkehrsbetriebe).
 
 Configuration:
 ```
