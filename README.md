@@ -15,6 +15,6 @@ config: {
 ```
 
 The vvtid can be generated on this Website:
-http://vvt.at/page.cfm?vpath=timetables/vvt-timeview-web
+http://vvt.at/page.cfm?vpath=fahrplan/timeview/timeview-web
 (The Website is currently only available in German)
 
